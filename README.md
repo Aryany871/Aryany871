@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Yadav 
 - 👀 I’m interested in coding and building projects.
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning DSA and Web Dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

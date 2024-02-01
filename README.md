@@ -1,6 +1,10 @@
-[![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fd5sdc8q1qlcsbeotkrke.gif)]()
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
+[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)]()
+
+<h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
 <h3 align="center">A passionate programmer and full-stack developer.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryany871&label=Profile%20views&color=0e75b6&style=flat" alt="aryany871" /> </p>
 
@@ -29,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryany871&show_icons=true&locale=en" alt="aryany871" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryany871&" alt="aryany871" /></p>
-

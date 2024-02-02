@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)]()
+[![MasterHead](https://www.newus.in/image/full-stack-program-image.gif)]()
 
 <h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
 <h3 align="center">A passionate programmer and full-stack developer.</h3>

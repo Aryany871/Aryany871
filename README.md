@@ -1,7 +1,7 @@
 [![MasterHead](https://www.newus.in/image/full-stack-program-image.gif)]()
 
 <h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
-<h3 align="center">A passionate programmer and full-stack developer.</h3>
+<h3 align="center">A passionate programmer and a full-stack developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 

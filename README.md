@@ -1,7 +1,7 @@
 [![MasterHead](https://www.newus.in/image/full-stack-program-image.gif)]()
 
 <h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
-<h3 align="center">A passionate programmer and a full-stack developer.</h3>
+<h3 align="center">Software Engineer @ Wells Fargo.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/aryan42512" target="blank"><img src="https://img.shields.io/twitter/follow/aryan42512?logo=twitter&style=for-the-badge" alt="aryan42512" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **DSA, Web Dev, MERN**
+- 💬 Ask me about **DSA, Web Dev, GenAI, LLMs**
 
 - 📫 How to reach me **aryany871@gmail.com**
 

@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **DSA, Web Dev, GenAI, LLMs**
+- 💬 Ask me about **DSA, Web Dev, GenAI, LLMs, MCP, Agents**
 
 - 📫 How to reach me **aryany871@gmail.com**
 
